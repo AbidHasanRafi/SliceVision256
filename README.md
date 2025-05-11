@@ -79,6 +79,6 @@ image_path, slice_type, bandwidth, latency, reliability
 3. **Redistribution**: Not permitted without authorization
 
 ## Contributors
-- **Algorithm Design**: [Md. Abid Hasan Rafi](https://github.com/abidhasanrafi), [Mst. Fatematuj Johora](https://github.com/Fatema-Rifa)  
-- **Validation**: [Mohima Binte Rasel](https://github.com/MohimaBinteRasel)
+- **Algorithm Design**: [Md. Abid Hasan Rafi](mailto:ahr16.abidhasanrafi@gmail.com), [Mst. Fatematuj Johora](mailto:mstfatematujjohora246@gmail.com)  
+- **Validation**: [Mohima Binte Rasel](mailto:mohimabinte002@gmail.com)
 - **Institutional Affiliation**: Department of Electronics and Communication Engineering, HSTU, Dinajpur, Bangladesh
